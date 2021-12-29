@@ -15,7 +15,7 @@
 
 5.查看核心逻辑实现文件
 `cd /root/xpocket-plugin-demo/src/main/java/com/perfma/xlab/plugin/demo/`{{execute}}
-`ls`
+`ls`{{execute}}
 
 6.ExampleXPocketPlugin.java 主要用于管理插件的整体生命周期，ExampleXPocketCommand.java 主要用于实现一个或多个命令的核心执行逻辑，修改一下命令实现
 `vim ExampleXPocketCommand.java`{{execute}}
