@@ -1,6 +1,6 @@
 
 1.使用XPocket发布的项目原型构建一个Maven项目
-`./apache-maven-3.8.2/bin/mvn archetype:generate -B -DarchetypeGroupId=com.perfma.xlab -DarchetypeArtifactId=xpocket-plugin-archetype -DarchetypeVersion=2.0.1-RELEASE -DgroupId=com.perfma.xlab -DartifactId=xpocket-plugin-demo -Dversion=0.0.1-SNAPSHOT -Dpackage=com.perfma.xlab.plugin.demo`{{execute}}
+`./apache-maven-3.5.4/bin/mvn archetype:generate -B -DarchetypeGroupId=com.perfma.xlab -DarchetypeArtifactId=xpocket-plugin-archetype -DarchetypeVersion=2.0.1-RELEASE -DgroupId=com.perfma.xlab -DartifactId=xpocket-plugin-demo -Dversion=0.0.1-SNAPSHOT -Dpackage=com.perfma.xlab.plugin.demo`{{execute}}
 
 2.检查项目结构
 `cd xpocket-plugin-demo`{{execute}}
