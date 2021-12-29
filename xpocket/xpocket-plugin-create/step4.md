@@ -9,7 +9,7 @@
 `tar -xvf XPocket.tar.gz`{{execute}}
 
 4.将刚才构建的插件包 xpocket-plugin-demo-0.0.1-SNAPSHOT-jar-with-dependencies.jar 拷贝至XPocket的plugins目录下
-`cp /root/xpocket-plugin-demo/target/xpocket-plugin-demo-0.0.1-SNAPSHOT-jar-with-dependencies.jar /root/xpocket/plugins`
+`cp /root/xpocket-plugin-demo/target/xpocket-plugin-demo-0.0.1-SNAPSHOT-jar-with-dependencies.jar /root/xpocket/plugins`{{execute}}
 
 5.启动XPocket
 `sh xpocket/xpocket.sh`{{execute}}
